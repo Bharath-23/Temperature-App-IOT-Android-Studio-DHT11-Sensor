@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "44515098377",
+    "firebase_url": "https://fir-controlledled.firebaseio.com",
+    "project_id": "fir-controlledled",
+    "storage_bucket": "fir-controlledled.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44515098377:android:a78a8158085fa981",
+        "android_client_info": {
+          "package_name": "com.example.temperature_using_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44515098377-afipcncj9pavfnkqgv6t2n49va292k4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temperature_using_iot",
+            "certificate_hash": "1fa177105c664ea84799b88f8845c62f75cf5931"
+          }
+        },
+        {
+          "client_id": "44515098377-96k0cu5pn7hu446skv1fce5kigjotf1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPj7hQOqANwQIBguv44MdSzmH1sBhrmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44515098377-96k0cu5pn7hu446skv1fce5kigjotf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
